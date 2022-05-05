@@ -97,6 +97,10 @@ convert_video(
 - Documentation: Includes all the documentation for training(training.md) and inference(inference.md) purposes. 
 
 ## Project Members
+Anish Phule - asp5607@psu.edu
+Ramona Devi - rfd5319@psu.edu
+Saquib Khan - msk5752@psu.edu
+Vishnu Sharma - vxh5104@psu.edu
 
 
-Contributors: Implemented code from this repo. 
+Contributors: Implemented code from this [repo](https://github.com/PeterL1n/RobustVideoMatting). 
