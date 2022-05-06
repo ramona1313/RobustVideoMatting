@@ -12,7 +12,7 @@
 
 
 ## Installation
-Follow the mentioned steps to install and run the demo on your system:
+- Follow the mentioned steps to install and run the demo on your system:
 **Step 1**: Clone this github repository on your system.
 **Step 2**: Install pytorch dependencies: pip install -r requirements_inference.txt
 
