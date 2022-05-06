@@ -43,7 +43,7 @@ convert_video(
     seq_chunk=12,                    # Process n frames at once for better parallelism.
 )
 ```
-##Training and Evaluation:
+## Training and Evaluation:
 
 **Model**
 - Decoder: decoder.py Includes a recurrent network in which the Bottleneck block at 1/16 feature scale. 
