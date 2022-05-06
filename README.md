@@ -8,7 +8,7 @@
 
 ## Results Demo
 - RVM uses a recurrent neural network to process videos with temporal memory. It can perform a real time matting on any video without any additional inputs.
-- To see the model’s performance click [here](https://drive.google.com/drive/folders/1VFnWwuu-YXDKG-N6vcjK_nL7YZMFapMU?usp=sharing)
+- To see the model’s performance click [here](https://drive.google.com/drive/folders/1pUNSMO37Y5ozjZbXPH7IU9Qk9wZj9tV3) for Demo.
 
 
 ## Installation
